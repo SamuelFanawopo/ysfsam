@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Fanawopo</h1>
 <h3 align="center">Web developer, and a student, developing applications, working with new technologies and designing</h3>
 
-- 🔭 I’m currently working on [Invisible Card](https://github.com/ysfsam/InvisibleCard)
+- 🔭 I’m currently working on [Restaurant Georgia](https://github.com/ysfsam/Restaurant-Georgia)
 
 - 🌱 I’m currently learning **JavaScript**
 
