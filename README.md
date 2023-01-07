@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://samuelfanawopo.website/](https://samuelfanawopo.website/)
+- 👨‍💻 Some of my newest projects are available at [https://samuelfanawopo.website/](https://samuelfanawopo.website/)
 
 - 📫 How to reach me **sfanawopo@gmail.com**
 
