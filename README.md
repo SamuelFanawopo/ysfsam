@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Fanawopo</h1>
 <h3 align="center">A Full-Stack Developer and a Student based in London, with a passion for learning and developing new applications.</h3>
 
-- 🔭 I’m currently working on [Enzyme Equity](https://github.com/ysfsam/EnzymeEquity)
+- 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen)
 
 - 🌱 I’m currently learning **JavaScript**
 
