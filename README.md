@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [EMS2344](https://github.com/EMS2344)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 Some of my newest projects are available at [https://samuelfanawopo.website/](https://samuelfanawopo.website/)
 
