@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Fanawopo</h1>
 <h3 align="center">A Full-Stack Developer and a Student based in London, with a passion for learning and developing new applications.</h3>
 
-- 🔭 I’m currently working on [The Hungry Kitchen](https://github.com/ysfsam/The-Hungry-Kitchen) with [EMS2344](https://github.com/EMS2344)
+- 🔭 I’m currently working on [ProShop](https://github.com/ysfsam/ProShop)
 
 - 🌱 I’m currently learning the **MERN Stack**
 
