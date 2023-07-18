@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my newest projects are available at [https://samuelfanawopo.website/](https://samuelfanawopo.website/)
 
-- 📫 How to reach me **sfanawopo@gmail.com**
+- 📫 How to reach me **sfanawopo{at}gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
